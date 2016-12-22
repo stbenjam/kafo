@@ -1109,6 +1109,17 @@ Issues are tracked in Redmine, see:
 * [kafo_parsers](https://github.com/theforeman/kafo_parsers) parses Puppet manifests for class documentation and parameter data
 * [puppet-lint-param-docs](https://github.com/voxpupuli/puppet-lint-param-docs) will lint Puppet modules to ensure all parameters are documented
 
-# License
+# Copyright
 
-This project is licensed under the GPLv3+.
+Copyright (C) 2013-2016 to Marek Hulán, Dominic Cleal, and other respective owners.
+
+Kafo is free software: you can redistribute it and/or modify it under the terms
+of the GNU General Public License as published by the Free Software Foundation,
+either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with
+this program.  If not, see <http://www.gnu.org/licenses/>.
