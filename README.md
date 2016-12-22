@@ -1,3 +1,6 @@
+[![Gem Version](https://badge.fury.io/rb/kafo.svg)](https://badge.fury.io/rb/kafo)
+[![GPL License](https://img.shields.io/github/license/theforeman/kafo.svg)](https://github.com/theforeman/kafo/blob/master/LICENSE.txt)
+
 # Kafo
 
 A puppet based installer and configurer (not-only) for Foreman and Katello
